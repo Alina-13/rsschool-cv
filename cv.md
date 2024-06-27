@@ -5,3 +5,19 @@
 
 ### About me
 #### I have no practical skills in programming. I want to learn a programming language.
+
+### Skils 
+* HTML
+* CSS
+* JavaSript
+
+### Code Example
+'''
+function multiply(a, b) {
+    return a * b;}
+'''
+
+### Languages
+- Ukraine
+- Russian 
+- English 
