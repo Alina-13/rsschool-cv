@@ -143,22 +143,22 @@ body {
   }
   
   .footer-github {
-    background-image: url(./assets/svg/git.jpg);
+    background-image: url(./assets/svg/git.svg);
     background-position: center left;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    width: 100px;
+    width: 140px;
     height: 80px;
   }
   
   .rsschool {
-    background-image: url(./assets/svg/rs.jpg);
+    background-image: url(./assets/svg/rs.svg);
     background-position: center left;
     background-repeat: no-repeat;
     background-size: cover;
     display: block;
-    width: 120px;
+    width: 162px;
     height: 60px;
   }
   
